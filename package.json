@@ -1,0 +1,19 @@
+{
+  "name": "danbot",
+  "version": "1.0.0",
+  "description": "A slack bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Graham",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "botkit": "^0.5.4",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.9.7",
+    "request": "^2.81.0"
+  }
+}
